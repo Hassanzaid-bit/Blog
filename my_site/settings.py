@@ -15,7 +15,9 @@ SECRET_KEY = 'r%=%o7o*m@81xbsd=7!!2)uw52cdd4oefn59$%!&$jn$hqq_5h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'lit-reef-04570.herokuapp.com'
+]
 
 SITE_ID = 1
 # Application definition
